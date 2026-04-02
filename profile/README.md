@@ -32,7 +32,7 @@ The architecture allows you to use it for personal needs or as a foundation for 
 | Name                                                                       | Description                                                                                                                                                 |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://github.com/necko-moe/necko3-frontend">necko3-frontend</a> | WIP / Vaporware atm. Represents an admin panel (consumes only backend endpoints requiring an API key from .env).                                            |
-| necko3-payment-page                                                        | WIP / Vaporware atm. Represents a payment page for end-users (consumes only public backend endpoints).                                                      |
+| <a href="https://github.com/necko-moe/necko3-payment-page">necko3-paymemt-page</a>                                                        | WIP / Vaporware atm. Represents a payment page for end-users (consumes only public backend endpoints).                                                      |
 | <a href="https://github.com/necko-moe/necko3-backend">necko3-backend</a>   | The Backend. A web wrapper over `necko3-core`. Serves as both a usage example for the crate and a fully functioning module.                                 |
 | <a href="https://github.com/necko-moe/necko3-core">necko3-core</a>         | The juicy, meaty core containing all the logic. DB calls, payment processing, blockchain listening, transaction validation — it all rests on her shoulders. |
 
@@ -45,5 +45,3 @@ The project and all repositories are distributed under the **MIT License**. Feel
 ## Support
 
 Want to make necko1 employed or donate enough for a Triple Whopper? Contact me -> <a href=https://t.me/everyonehio>Telegram</a> or <a href="mailto:meow@necko.moe">Mail me</a> (I rarely check that). I don't accept direct card transfers, just so you know
-<br />
-If I (or evansvl AKA мюсля) ever finish the frontend, I might add a link here to "poke" the demo version. Please don't DDoS it just in advance 😭🙏
